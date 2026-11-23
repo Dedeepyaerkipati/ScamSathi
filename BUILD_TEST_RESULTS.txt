@@ -1,0 +1,13 @@
+test_courier_fee_pattern (test_detector.ScamSathiDetectorTests.test_courier_fee_pattern) ... ok
+test_electricity_disconnection_scam_is_high_risk (test_detector.ScamSathiDetectorTests.test_electricity_disconnection_scam_is_high_risk) ... ok
+test_job_upfront_fee_pattern (test_detector.ScamSathiDetectorTests.test_job_upfront_fee_pattern) ... ok
+test_normal_electricity_bill_reminder_not_high_risk (test_detector.ScamSathiDetectorTests.test_normal_electricity_bill_reminder_not_high_risk) ... ok
+test_normal_meeting_has_no_rule_warnings (test_detector.ScamSathiDetectorTests.test_normal_meeting_has_no_rule_warnings) ... ok
+test_normal_upi_payment_mention_is_not_automatically_flagged (test_detector.ScamSathiDetectorTests.test_normal_upi_payment_mention_is_not_automatically_flagged) ... ok
+test_safety_warning_about_upi_pin_is_not_flagged_as_request (test_detector.ScamSathiDetectorTests.test_safety_warning_about_upi_pin_is_not_flagged_as_request) ... ok
+test_upi_qr_refund_scam_is_high_risk (test_detector.ScamSathiDetectorTests.test_upi_qr_refund_scam_is_high_risk) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.002s
+
+OK
